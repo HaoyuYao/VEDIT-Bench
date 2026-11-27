@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VEDIT-Bench · Can coding agents edit a video they have only watched?</title>
+<meta name="description" content="VEDIT-Bench: a unified benchmark for evaluating coding agents on programmatic video editing from undescribed instructions. 678 tasks, 226 scenes, 7 domains, 8 frontier agents.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=DM+Sans:ital,opsz,wght@0,9..40,300..800;1,9..40,400&family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..800,0..100,0..1;1,9..144,300..800,0..100,0..1&family=JetBrains+Mono:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='2' width='28' height='28' rx='8' fill='%231F1A15'/%3E%3Cpath d='M9 10 L16 23 L23 10' fill='none' stroke='%23F6D77A' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+
+<!-- ============================== NAV ============================== -->
+<nav class="nav" id="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="#top">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="2" width="28" height="28" rx="8" fill="#1F1A15"/><path d="M9 10 L16 23 L23 10" fill="none" stroke="#F6D77A" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      VEDIT-Bench
+    </a>
+    <div class="nav-links" id="navLinks">
+      <a href="#task">Task</a>
+      <a href="#levels">Levels</a>
+      <a href="#atlas">Dataset</a>
+      <a href="#metrics">Metrics</a>
+      <a href="#results">Results</a>
+      <a href="#arena">Arena</a>
+      <a href="#failures">Failures</a>
+      <a href="#bibtex">BibTeX</a>
+    </div>
+    <button class="nav-toggle" id="navToggle" aria-label="Menu"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  </div>
+  <div class="progress" id="progress"></div>
+</nav>
+
+<!-- ============================== HERO ============================== -->
+<header class="hero" id="top">
+  <div class="hero-wall" aria-hidden="true"><div class="wall-plane" id="wallPlane"></div></div>
+  <div class="wrap hero-in">
+    <div class="hero-copy">
+      <div class="stamp"><span class="st">Arxiv 2027</span><span class="sep">Benchmark · Coding agents · Video editing</span></div>
+      <h1 class="display hero-title" id="heroTitle" aria-label="VEDIT-Bench">VEDIT-Bench</h1>
+      <p class="hero-q">Can a coding agent edit a video it has only <em>watched</em>, from an instruction that leaves the <span class="squig" style="--sq: var(--der)">consequences<svg viewBox="0 0 200 12" preserveAspectRatio="none"><path d="M2 8 C 30 2, 50 12, 80 6 S 130 2, 160 7 S 190 9, 198 4"/></svg></span> unsaid?</p>
+      <p class="hero-full">VEDIT-Bench: A Unified Benchmark for Evaluating Coding Agents on Programmatic Video Editing from Undescribed Instructions</p>
+      <div class="authors">
+        <span class="a">Haoyu Yao<sup>1</sup></span><span class="a">Chenguo Lin<sup>1,†</sup></span><span class="a">Yike Xiang<sup>2</sup></span><span class="a">Ruize Du<sup>1</sup></span><span class="a">Fengyuan Ran<sup>1</sup></span><span class="a">Qingmiao Hu<sup>3</sup></span><span class="a">Xuesong Duan<sup>4</sup></span><span class="a">Yadong Mu<sup>1,✉</sup></span>
+      </div>
+      <div class="affil"><span><sup>1</sup> Peking University</span><span><sup>2</sup> Wuhan University</span><span><sup>3</sup> Nanyang Technological University</span><span><sup>4</sup> Paris-Saclay University</span><br><span>† Project lead</span><span>✉ Corresponding author</span></div>
+      <div class="hero-btns">
+        <a class="btn solid" href="assets/VEDIT-Bench.pdf" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg>Paper</a>
+        <a class="btn" href="https://arxiv.org/abs/2310.00000" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z" opacity=".0"/><path d="M6 4l6 8-6 8M12 20h6"/></svg>arXiv</a>
+        <a class="btn" href="https://github.com/HaoyuYao/VEDIT-Bench" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6l-6 6 6 6M16 6l6 6-6 6"/></svg>Code</a>
+        <a class="btn" href="https://huggingface.co/datasets/Jack123456aas/VEDIT-Bench"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v14c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"/></svg>Dataset</a>
+        <a class="btn" href="#arena"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M10 9l5 3-5 3z"/></svg>Arena</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="note" id="heroNote">
+    <div class="note-lab"><span>Undescribed instruction</span><span class="lv L3" id="heroNoteLv">L3</span></div>
+    <div class="note-txt"><span id="heroNoteTxt"></span><span class="caret"></span></div>
+    <div class="note-src" id="heroNoteSrc">&nbsp;</div>
+  </div>
+  <a class="scroll-cue" href="#abstract">scroll<svg viewBox="0 0 26 34" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 C 11 10, 15 18, 13 30"/><path d="M6 23 L13 31 L20 23"/></svg></a>
+</header>
+
+<div class="divider-band" aria-hidden="true"><div class="ticker" id="ticker"></div></div>
+
+<!-- ============================== ABSTRACT ============================== -->
+<section class="sec" id="abstract">
+  <div class="wrap">
+    <div class="abs-grid">
+      <p class="pull" data-reveal><span class="qm">“</span>Agents can execute the stated change and preserve the rest of the video, but struggle to <em>infer the latent intent</em> of an instruction and carry its consequences into the program.</p>
+      <div class="abs-body" data-reveal style="--d:.15s">
+        <div class="kicker"><span class="num">§ 01</span> Abstract</div>
+        <p>Programmatic dynamic visual artifacts — animations, simulations and interactive visualizations — are specified by executable programs, which makes them parametric, controllable and reproducible. In practice, coding agents are often tasked with editing these artifacts given only a <span class="hl">rendered video</span> and an <span class="hl" style="--hl-d:.5s">underspecified instruction</span> that states the primary modification while leaving its structural, quantitative and temporal consequences implicit.</p>
+        <p>We formulate this task as <em>video-conditioned programmatic editing from undescribed instructions</em>: without access to the original source code, an agent must reconstruct the underlying scene, execute the explicit edit, propagate its implicit consequences over time, and preserve all unaffected content and dynamics.</p>
+        <p>VEDIT-Bench comprises <b>678 editing tasks</b> across <b>226 source scenes</b> spanning seven domains and three program families, organized into three escalating tiers — L1 local edits, L2 linked updates and L3 rule or structural changes — and paired with time-anchored <span class="tag D">Direct</span> <span class="tag R">Derived</span> <span class="tag I">Invariant</span> metrics. Evaluating eight frontier coding agents reveals that while local edits barely differentiate models, performance <span class="hl" style="--hl-d:.8s">degrades sharply on L3</span>, accompanied by a substantial rank reshuffle and a pronounced drop in dependent updates.</p>
+      </div>
+    </div>
+    <div class="stats" id="stats">
+      <div class="stat" data-reveal><i class="bar"></i><div class="v" data-count="678">0</div><div class="l">editing tasks with hidden reference edits</div></div>
+      <div class="stat" data-reveal style="--d:.08s"><i class="bar"></i><div class="v" data-count="226">0</div><div class="l">deterministic source scenes</div></div>
+      <div class="stat" data-reveal style="--d:.16s"><i class="bar"></i><div class="v" data-count="7">0</div><div class="l">domains, from circuits to web UIs</div></div>
+      <div class="stat" data-reveal style="--d:.24s"><i class="bar"></i><div class="v" data-count="3">0</div><div class="l">program families: SVG · HTML/JS · Python</div></div>
+      <div class="stat" data-reveal style="--d:.32s"><i class="bar"></i><div class="v" data-count="2768" data-sep="1">0</div><div class="l">time-anchored scoring points</div></div>
+      <div class="stat" data-reveal style="--d:.40s"><i class="bar"></i><div class="v" data-count="8">0</div><div class="l">frontier coding agents evaluated</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== TASK ============================== -->
+<section class="sec tint" id="task">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 02</span> The task</div>
+      <h2 class="display">One sentence, <em>many</em> consequences.</h2>
+      <p class="lede">Given only a rendered video and an instruction with hidden intent, an agent must rebuild the scene as code, apply the edit, and carry its unstated effects through time.</p>
+    </header>
+    <div class="scrolly" id="scrolly">
+      <div class="steps">
+        <div class="step" data-step="0">
+          <div class="sn">01</div>
+          <h3>You only get the pixels.</h3>
+          <p>The agent receives a rendered clip — here, an HTML/JS atom viewer showing calcium. The program that produced it is withheld, so structure, layout and orbital dynamics must be recovered from frames alone.</p>
+        </div>
+        <div class="step" data-step="1">
+          <div class="sn">02</div>
+          <h3>…and one undescribed sentence.</h3>
+          <p>The instruction names the primary change and nothing else. Turning Ca into Ca²⁺ silently implies two fewer electrons, a new configuration, a different valence and an emptied outer shell.</p>
+        </div>
+        <div class="step" data-step="2">
+          <div class="sn">03</div>
+          <h3>The agent writes a program.</h3>
+          <p>It must synthesize a self-contained program that reconstructs the scene from scratch and executes the edit, without reusing source frames. The excerpt is from Opus 5.5’s actual submission for this task.</p>
+        </div>
+        <div class="step" data-step="3">
+          <div class="sn">04</div>
+          <h3>Three obligations, scored apart.</h3>
+          <p>The rendered video is judged against a hidden reference edit, criterion by criterion:</p>
+          <div class="tags"><span class="tag D">Direct — the change it names</span><span class="tag R">Derived — what it leaves implicit</span><span class="tag I">Invariant — what must stay</span></div>
+          <ul class="crit-list" id="taskCrit"></ul>
+        </div>
+      </div>
+      <div class="stage-wrap">
+        <div class="stage" id="stage" data-step="0">
+          <div class="stage-card">
+            <div class="stage-top"><span class="dots"><i></i><i></i><i></i></span><span class="t" id="stageTitle">source.mp4 — 2.0 s · 1222×750</span><span class="r"><span class="lv L3">L3</span></span></div>
+            <div class="vid-box" id="vidBox">
+              <video class="v-src" src="assets/v/hi/chemistry__atom-ca__src.mp4" muted loop playsinline preload="auto"></video>
+              <video class="v-edit" src="assets/v/hi/chemistry__atom-ca__L3.mp4" muted loop playsinline preload="auto"></video>
+              <span class="vid-label src">Source video</span><span class="vid-label edit">Reference edit</span>
+              <span class="no-code">source code withheld</span>
+              <div class="annos">
+                <div class="anno D" style="left:1.5%;top:.8%;width:19%;height:11.5%;--k:0"><svg preserveAspectRatio="none"><rect x="1%" y="1.5%" width="98%" height="97%" rx="8"/></svg><span class="al" style="left:104%;top:20%">Ca → Ca²⁺</span></div>
+                <div class="anno R" style="left:3.6%;top:27%;width:32.5%;height:13%;--k:1"><svg preserveAspectRatio="none"><rect x="1%" y="1.5%" width="98%" height="97%" rx="8"/></svg><span class="al" style="left:4%;top:-34px">[Ne] 3s² 3p⁶ · valence 8</span></div>
+                <div class="anno R" style="left:25.5%;top:41.5%;width:10.5%;height:9.5%;--k:2"><svg preserveAspectRatio="none"><rect x="1%" y="1.5%" width="98%" height="97%" rx="8"/></svg><span class="al" style="left:6%;top:108%">18 e⁻</span></div>
+                <div class="anno R" style="left:41%;top:16%;width:54%;height:82%;--k:3"><svg preserveAspectRatio="none"><rect x="1%" y="1.5%" width="98%" height="97%" rx="12"/></svg><span class="al" style="right:3%;top:3%">4th shell emptied · 2-8-8</span></div>
+                <div class="anno I" style="left:3.6%;top:41.5%;width:20.5%;height:9.5%;--k:4"><svg preserveAspectRatio="none"><rect x="1%" y="1.5%" width="98%" height="97%" rx="8"/></svg><span class="al" style="left:2%;top:108%">20 p⁺ · 20 n stay</span></div>
+              </div>
+            </div>
+            <div class="st-note">
+              <div class="note-lab"><span>Instruction</span><span class="lv L3">L3</span></div>
+              <div class="note-txt"><span id="stageNoteTxt"></span><span class="caret"></span></div>
+              <span class="st-hand">← that’s all it gets</span>
+            </div>
+            <div class="st-code">
+              <div class="ch"><img src="assets/img/logos/logo_opus.png" alt=""><b>Opus 5.5</b> · Claude Code · <span>render.py</span></div>
+              <pre id="codePre"></pre>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== LEVELS ============================== -->
+<section class="sec" id="levels">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 03</span> Three levels</div>
+      <h2 class="display">Same scene, <em>rising</em> stakes.</h2>
+      <p class="lede">Every source scene is edited at three levels that hold reconstruction difficulty fixed while widening the scope of causal propagation.</p>
+    </header>
+    <div class="lvl-cards">
+      <article class="lvl-card" data-reveal>
+        <span class="lv L1">L1</span>
+        <svg class="glyph" id="glyphL1" viewBox="0 0 260 92"></svg>
+        <h3>Local edit</h3>
+        <p>Alters a single label, visual attribute or isolated state. Nothing else should move.</p>
+        <div class="ex">“Make the electrons orbiting the calcium nucleus green.”<small>Chemistry · calcium atom</small></div>
+      </article>
+      <article class="lvl-card" data-reveal style="--d:.12s">
+        <span class="lv L2">L2</span>
+        <svg class="glyph" id="glyphL2" viewBox="0 0 260 92"></svg>
+        <h3>Linked update</h3>
+        <p>Alters an element together with directly linked ones — a value, its visual encoding and the summary readout.</p>
+        <div class="ex">“Record one more night delivery that took 18 minutes.”<small>Charts · delivery histogram</small></div>
+      </article>
+      <article class="lvl-card" data-reveal style="--d:.24s">
+        <span class="lv L3">L3</span>
+        <svg class="glyph" id="glyphL3" viewBox="0 0 260 92"></svg>
+        <h3>Rule or structure change</h3>
+        <p>Alters a governing rule, threshold or structural relation, so later states must be re-derived over time.</p>
+        <div class="ex">“Make the rightmost gear slide out of mesh while the gears turn, then slide back.”<small>Physics · three-gear chain</small></div>
+      </article>
+    </div>
+
+    <div class="triplet" id="triplet">
+      <div class="trip-top" data-reveal>
+        <h3>One source, three edits — <em class="hand" style="font-size:.8em;color:var(--ink-2)">drag the divider</em></h3>
+        <div class="seg" id="tripDom"></div>
+      </div>
+      <div class="trip-grid" data-reveal>
+        <div>
+          <div class="wipe" id="tripWipe">
+            <video class="w-base" muted playsinline preload="auto"></video>
+            <div class="w-top"><video muted playsinline preload="auto"></video></div>
+            <span class="w-lab l">Source</span><span class="w-lab r" id="tripWipeLab">Reference · L1</span>
+            <div class="w-bar"><div class="w-knob"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l-6 6 6 6M15 6l6 6-6 6"/></svg></div></div>
+          </div>
+          <div class="wipe-cap"><span id="tripCap"></span><span class="hint-hand">← source · reference →</span></div>
+        </div>
+        <div class="trip-list" id="tripList"></div>
+      </div>
+    </div>
+
+    <div class="stat-row">
+      <div class="panel" data-reveal>
+        <h4>Scoring points by level</h4>
+        <p class="sub">All 678 tasks. Derived points concentrate at L2 and L3 — that is where hidden consequences live.</p>
+        <div class="legend"><span><i style="background:var(--dir)"></i>Direct</span><span><i style="background:var(--der)"></i>Derived</span><span><i style="background:var(--inv)"></i>Invariant</span></div>
+        <div id="ptsBars"></div>
+      </div>
+      <div class="panel" data-reveal style="--d:.12s">
+        <h4>Criteria per task</h4>
+        <p class="sub">Time-anchored criteria a task must satisfy. Diamonds: mean over all 678 tasks; columns: how the 28 evaluated tasks per level are distributed.</p>
+        <svg class="chart" id="critChart" viewBox="0 0 520 200"></svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider-band" aria-hidden="true"><div class="ticker" id="ticker2"></div></div>
+
+<!-- ============================== ATLAS ============================== -->
+<section class="sec tint" id="atlas">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 04</span> The dataset</div>
+      <h2 class="display">226 scenes, <em>seven</em> worlds.</h2>
+      <p class="lede">Deterministic source programs across seven domains and three program families, each paired with an L1, L2 and L3 instruction. Hover any tile to play it; click to read its three edits.</p>
+    </header>
+    <div class="dom-cards" id="domCards"></div>
+    <div class="panel" data-reveal style="margin-bottom:40px">
+      <h4>Source scenes per domain</h4>
+      <p class="sub">Coloured by program family and renderer.</p>
+      <div class="legend"><span><i style="background:#8F84D8"></i>SVG animation</span><span><i style="background:#E2A84C"></i>HTML / JavaScript</span><span><i style="background:#4FA08C"></i>Python</span></div>
+      <div id="famBar"></div>
+    </div>
+    <div class="atlas-bar">
+      <div class="atlas-filters" id="atlasFilters"></div>
+      <div style="display:flex;gap:14px;align-items:center"><span class="atlas-count" id="atlasCount"></span>
+        <label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input id="atlasSearch" type="search" placeholder="Search scenes, e.g. pendulum"></label></div>
+    </div>
+    <div class="atlas-grid" id="atlasGrid"></div>
+  </div>
+</section>
+
+<!-- ============================== METRICS ============================== -->
+<section class="sec" id="metrics">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 05</span> How we score</div>
+      <h2 class="display">Scoring what the instruction <em>didn’t</em> say.</h2>
+      <p class="lede">Holistic video similarity misses small but decisive changes — a single numeric label can flip correctness while touching a few pixels. So every task carries observable, time-anchored criteria, rated 0–4 by a VLM judge that inspects source, reference and candidate frame by frame.</p>
+    </header>
+    <div class="m-cards">
+      <div class="m-card D" data-reveal>
+        <svg class="m-ic" viewBox="0 0 54 54"><circle cx="27" cy="27" r="24" fill="var(--dir-soft)"/><path d="M16 28l7 7 15-16" fill="none" stroke="var(--dir)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <h3>Direct</h3>
+        <p class="q">Did the named change happen — at the right moment?</p>
+        <p>Verifies the explicitly requested object, attribute or state change at the specified time.</p>
+        <div class="gex"><b>Three-gear chain, L3:</b> the rightmost gear slides out of mesh, then back in.</div>
+      </div>
+      <div class="m-card R" data-reveal style="--d:.1s">
+        <svg class="m-ic" viewBox="0 0 54 54"><circle cx="27" cy="27" r="24" fill="var(--der-soft)"/><circle cx="17" cy="27" r="5" fill="var(--der)"/><circle cx="37" cy="18" r="4" fill="none" stroke="var(--der)" stroke-width="3"/><circle cx="37" cy="36" r="4" fill="none" stroke="var(--der)" stroke-width="3"/><path d="M22 25l10-5M22 29l10 5" stroke="var(--der)" stroke-width="3" stroke-linecap="round"/></svg>
+        <h3>Derived</h3>
+        <p class="q">Did the unstated consequences follow?</p>
+        <p>Verifies that rule-governed effects nobody spelled out propagate consistently over time.</p>
+        <div class="gex"><b>Same task:</b> the detached gear’s pointer halts while out of mesh, then resumes — opposite to the middle gear.</div>
+      </div>
+      <div class="m-card I" data-reveal style="--d:.2s">
+        <svg class="m-ic" viewBox="0 0 54 54"><circle cx="27" cy="27" r="24" fill="var(--inv-soft)"/><rect x="16" y="24" width="22" height="15" rx="3" fill="none" stroke="var(--inv)" stroke-width="3.2"/><path d="M20 24v-4a7 7 0 0 1 14 0v4" fill="none" stroke="var(--inv)" stroke-width="3.2" stroke-linecap="round"/></svg>
+        <h3>Invariant</h3>
+        <p class="q">Did everything else stay put?</p>
+        <p>Verifies that unrelated objects, layouts, styles and motion patterns are not disturbed.</p>
+        <div class="gex"><b>Same task:</b> the two independent gears keep their teeth, colours and rotation.</div>
+      </div>
+    </div>
+    <div class="px-row">
+      <div class="px" data-reveal>
+        <svg viewBox="0 0 240 70" id="pxFid"></svg>
+        <h4>Fidelity</h4>
+        <p>Preservation of the source <em>outside</em> the edit region, weighted towards lines, text and edges.</p>
+      </div>
+      <div class="px" data-reveal style="--d:.1s">
+        <svg viewBox="0 0 240 70" id="pxSm"></svg>
+        <h4>Smoothness</h4>
+        <p>Motion dynamics against the reference: freezes, bursts, flicker, pacing and duration.</p>
+      </div>
+      <div class="px" data-reveal style="--d:.2s">
+        <svg viewBox="0 0 240 70" id="pxGt"></svg>
+        <h4>GT improvement</h4>
+        <p>Share of the source→reference gap closed <em>inside</em> the edit region: 0 = unchanged, 100 = reference.</p>
+      </div>
+    </div>
+
+    <div class="calc" id="calc">
+      <div data-reveal>
+        <div class="kicker">Try it</div>
+        <h3>The composite, by hand.</h3>
+        <p class="muted ui small" style="max-width:56ch">Edit term E = 0.55·Direct + 0.45·Derived (or Direct alone when a task has no Derived criteria). A bounded quality factor Q ∈ [0.75, 1] folds in the rest, so preserving the video can never compensate for skipping the edit. Returning the source unchanged scores 0.</p>
+        <div class="sliders" id="sliders"></div>
+        <label class="toggle"><input type="checkbox" id="hasDer" checked><span class="tr"></span>Task has Derived criteria</label>
+        <div class="presets" id="presets"></div>
+      </div>
+      <div data-reveal style="--d:.15s">
+        <div class="receipt" id="receipt"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FINDINGS ============================== -->
+<section class="sec tint" id="results">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 06</span> Findings</div>
+      <h2 class="display">They do what they’re told, <em>not what it implies.</em></h2>
+      <p class="lede">Eight coding agents, each in its native command-line harness at high reasoning effort, on the 84-task mini-subset that keeps every domain and pairs each source with its L1, L2 and L3 edit.</p>
+    </header>
+    <div class="finds" id="finds"></div>
+  </div>
+</section>
+
+<!-- ============================== LEADERBOARD + ANALYSIS ============================== -->
+<section class="sec" id="leaderboard">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 07</span> Leaderboard</div>
+      <h2 class="display">Close at the bottom rung, <em>apart</em> at the top.</h2>
+    </header>
+    <div class="lb-ctrl" data-reveal>
+      <div class="seg" id="popSeg"><button data-v="AZ" class="on">Auto-zero</button><button data-v="CO">Completed-only</button></div>
+      <span class="muted ui small">Click any column to re-rank. Semantic, pixel and per-level columns are Completed-only, as in the paper.</span>
+    </div>
+    <div class="board" data-reveal><table id="board"></table></div>
+
+    <div class="charts-grid">
+      <div class="chart-card" data-reveal>
+        <div class="hd"><div><h4><span class="tl">a</span>Rank reshuffle across levels</h4><p class="sub">Composite score (Completed-only) and rank at each level. Hover a line.</p></div></div>
+        <svg class="chart" id="bump" viewBox="0 0 640 430"></svg>
+      </div>
+      <div class="chart-card" data-reveal style="--d:.1s">
+        <div class="hd"><div><h4><span class="tl">b</span>Where the points go</h4><p class="sub">Mean over agents for each measure at L1, L2 and L3; label is the L3 − L2 change.</p></div></div>
+        <div class="legend"><span><i class="dt" style="background:var(--L1)"></i>L1</span><span><i class="dt" style="background:var(--L2)"></i>L2</span><span><i class="dt" style="background:var(--L3)"></i>L3</span></div>
+        <svg class="chart" id="measures" viewBox="0 0 460 380"></svg>
+      </div>
+    </div>
+
+    <div class="charts-grid even">
+      <div class="chart-card" data-reveal>
+        <div class="hd"><div><h4><span class="tl">c</span>The Derived gap, per agent</h4><p class="sub">Direct vs Derived score for each agent. The bar between them is the part of the edit that was stated but not followed through.</p></div>
+          <div class="seg" id="gapSeg"><button data-v="L2">L2</button><button data-v="L3" class="on">L3</button></div></div>
+        <div class="legend"><span><i class="dt" style="background:var(--dir)"></i>Direct</span><span><i class="dt" style="background:var(--der)"></i>Derived</span></div>
+        <svg class="chart" id="gap" viewBox="0 0 560 420"></svg>
+      </div>
+      <div class="chart-card" data-reveal style="--d:.1s">
+        <div class="hd"><div><h4><span class="tl">d</span>Domain profile</h4><p class="sub">Auto-zero composite per domain; axis labels give the mean over agents. Toggle agents below.</p></div></div>
+        <svg class="chart" id="radar" viewBox="0 0 560 440"></svg>
+        <div class="chart-legend" id="radarLegend"></div>
+      </div>
+    </div>
+
+    <div class="charts-grid even">
+      <div class="chart-card" data-reveal>
+        <div class="hd"><div><h4><span class="tl">e</span>Level trend per domain</h4><p class="sub">Completed-only composite averaged over agents; label is the L3 − L1 change.</p></div></div>
+        <svg class="chart" id="slope" viewBox="0 0 560 400"></svg>
+      </div>
+      <div class="chart-card" data-reveal style="--d:.1s">
+        <div class="hd"><div><h4><span class="tl">f</span>Who leads where</h4><p class="sub">Best agent and its Completed-only composite for each domain and level. No single agent dominates.</p></div></div>
+        <div class="medals" id="medals"></div>
+      </div>
+    </div>
+
+    <div class="chart-card" data-reveal style="margin-top:26px">
+      <div class="hd"><div><h4><span class="tl">g</span>Full breakdown</h4><p class="sub">Completed-only composite by agent, domain and level. Dot area and colour encode the score; hover for details.</p></div>
+        <div class="legend" id="matrixLegend" style="margin:0"></div></div>
+      <svg class="chart" id="matrix" viewBox="0 0 1180 420"></svg>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== ARENA ============================== -->
+<section class="sec tint" id="arena">
+  <div class="wrap-wide">
+    <header class="sec-head wrap" data-reveal>
+      <div class="kicker"><span class="num">§ 08</span> Arena</div>
+      <h2 class="display">Eight agents, <em>one</em> edit, side by side.</h2>
+      <p class="lede">All 84 mini-subset tasks with every agent’s delivered video, synchronised by relative time. Starred scenes are the ones shown in the paper. Click any agent to open the judge’s notes.</p>
+    </header>
+    <div class="arena-ctrl" data-reveal>
+      <div class="arena-row"><span class="lab">Level</span><div class="seg" id="arLevel"></div></div>
+      <div class="arena-row"><span class="lab">Domain</span><div class="seg" id="arDomain" style="flex-wrap:wrap"></div></div>
+      <div class="arena-row"><span class="lab">Scene</span><div class="scene-chips" id="arScene"></div></div>
+    </div>
+    <div class="instr" id="arInstr" data-reveal>
+      <div><div class="it" id="arInsTxt"></div><div class="im" id="arInsMeta"></div></div>
+      <div class="crit-sum" id="arCrit"></div>
+    </div>
+    <div class="transport" id="transport">
+      <button class="pp" id="arPlay" aria-label="Play or pause"></button>
+      <div class="scrub" id="arScrub"><div class="tr"></div><div class="fill"></div><div class="hd"></div></div>
+      <span class="tm" id="arTime">0%</span>
+      <div class="spd" id="arSpeed"><button data-s=".25">¼×</button><button data-s=".5">½×</button><button data-s="1" class="on">1×</button></div>
+      <button class="srt" id="arSort">Sort: score</button>
+    </div>
+    <div class="arena-grid" id="arGrid"></div>
+    <div class="arena-foot">
+      <div class="legend"><span><i class="dt" style="background:var(--dir)"></i>Direct criteria</span><span><i class="dt" style="background:var(--der)"></i>Derived</span><span><i class="dt" style="background:var(--inv)"></i>Invariant</span><span>each dot fills with the judge’s 0–4 rating</span></div>
+      <span>Score = task composite (0–100). Videos are aligned by relative time, as the pixel metrics are.</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FAILURES ============================== -->
+<section class="sec" id="failures" style="overflow:hidden">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 09</span> Failure gallery</div>
+      <h2 class="display">Where agents <em>slip</em>.</h2>
+      <p class="lede">The stated change is usually there. What goes missing is its consequence: the edited scene keeps following the <em>old</em> rule. Each card pairs the reference with a failing agent; notes quote the judge.</p>
+    </header>
+  </div>
+  <div class="fails-wrap">
+    <div class="fails" id="fails"></div>
+    <div class="fnav"><button id="fPrev" aria-label="Previous"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6l-6 6 6 6"/></svg></button><button id="fNext" aria-label="Next"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></button></div>
+  </div>
+</section>
+
+<!-- ============================== RELATED ============================== -->
+<section class="sec tint" id="related">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 10</span> Positioning</div>
+      <h2 class="display">The first to ask for <em>all five</em>.</h2>
+      <p class="lede">Pixel-space editing benchmarks judge whether an edit looks plausible; code-driven video benchmarks judge generation or reconstruction; code-based editing has been studied for static visuals. VEDIT-Bench needs all of it at once.</p>
+    </header>
+    <div data-reveal style="overflow-x:auto"><table class="cmp" id="cmp"></table></div>
+  </div>
+</section>
+
+<!-- ============================== BIBTEX ============================== -->
+<section class="sec" id="bibtex">
+  <div class="wrap">
+    <header class="sec-head" data-reveal>
+      <div class="kicker"><span class="num">§ 11</span> Citation</div>
+      <h2 class="display">If it helps, <em>cite</em> it.</h2>
+    </header>
+    <div class="bib" data-reveal id="bib"><button class="copy" id="copyBib">Copy</button>@inproceedings{yao2027veditbench,
+  title     = {VEDIT-Bench: A Unified Benchmark for Evaluating Coding Agents
+               on Programmatic Video Editing from Undescribed Instructions},
+  author    = {Yao, Haoyu and Lin, Chenguo and Xiang, Yike and Du, Ruize and
+               Ran, Fengyuan and Hu, Qingmiao and Duan, Xuesong and Mu, Yadong},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision
+               and Pattern Recognition (CVPR)},
+  year      = {2027}
+}</div>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <div class="big">VEDIT<em>-Bench</em></div>
+    <div>Peking University · Wuhan University · Nanyang Technological University · Paris-Saclay University<br>All videos on this page are real benchmark sources, reference edits and agent outputs.</div>
+  </div>
+</footer>
+
+<div class="tip" id="tip"></div>
+<div class="lb" id="lightbox"><div class="lb-card"><button class="lb-x" aria-label="Close">×</button><div id="lbContent"></div></div></div>
+
+<script src="assets/data/data.js"></script>
+<script src="assets/js/core.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
