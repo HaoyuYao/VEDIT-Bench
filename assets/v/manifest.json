@@ -1,0 +1,5052 @@
+{
+"assets/v/gt/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/gt/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/gt/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/gt/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/gt/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/gt/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 7.8,
+"h": 526,
+"w": 640
+},
+"assets/v/gt/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/gt/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/gt/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/gt/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/gt/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/gt/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 6.4,
+"h": 376,
+"w": 640
+},
+"assets/v/gt/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/gt/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/gt/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/gt/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/gt/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/gt/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/gt/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/gt/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/gt/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/gt/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/gt/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/gt/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/gt/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/gt/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/gt/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/hi/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 540,
+"w": 960
+},
+"assets/v/hi/charts__06-heatmap__src.mp4": {
+"dur": 1.8,
+"h": 540,
+"w": 960
+},
+"assets/v/hi/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 676,
+"w": 1100
+},
+"assets/v/hi/chemistry__atom-ca__src.mp4": {
+"dur": 2.0,
+"h": 676,
+"w": 1100
+},
+"assets/v/hi/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 716,
+"w": 1100
+},
+"assets/v/hi/physics__three_gear_chain__src.mp4": {
+"dur": 3.0,
+"h": 716,
+"w": 1100
+},
+"assets/v/out/claude-opus5.5/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5.5/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/claude-opus5/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/chemistry__atom-p__L3.mp4": {
+"dur": 4.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__three_gear_chain__L3.mp4": {
+"dur": 5.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/claude-opus5/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__07-histogram__L2.mp4": {
+"dur": 4.4,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__21_full_adder__L3.mp4": {
+"dur": 2.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/deepseek-v4.1-flash/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-5.6-sol/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-astra/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 6.0,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__07-histogram__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__billiards_break__L3.mp4": {
+"dur": 3.3,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6-sol/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 6.4,
+"h": 526,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__044_StereographicProjection__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__044_StereographicProjection__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__044_StereographicProjection__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/gpt-6.1-sol/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__avl-rotation__L1.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__avl-rotation__L2.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__avl-rotation__L3.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__backtracking-n-queens__L1.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__backtracking-n-queens__L2.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__backtracking-n-queens__L3.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__dijkstra-relax__L1.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__dijkstra-relax__L2.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__dijkstra-relax__L3.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__quick-sort-partition__L1.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__quick-sort-partition__L2.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/kimi-k3/algorithms__quick-sort-partition__L3.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__01-trend__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__01-trend__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__01-trend__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__06-heatmap__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__06-heatmap__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__06-heatmap__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__07-histogram__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__07-histogram__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__07-histogram__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__14-gantt__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__14-gantt__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/charts__14-gantt__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-c__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-c__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-c__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-ca__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-ca__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-ca__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-f__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-f__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-f__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-p__L1.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-p__L2.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/chemistry__atom-p__L3.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__04_rc_low_pass__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__04_rc_low_pass__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__04_rc_low_pass__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__10_noninverting_amp__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__10_noninverting_amp__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__10_noninverting_amp__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__21_full_adder__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__21_full_adder__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__21_full_adder__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__26_shift_register__L1.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__26_shift_register__L2.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/electric__26_shift_register__L3.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__033_LinearRegression__L1.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__033_LinearRegression__L2.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__033_LinearRegression__L3.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__040_PythagoreanProofSketch__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__040_PythagoreanProofSketch__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__040_PythagoreanProofSketch__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__056_HowVarianceAdds__L1.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__056_HowVarianceAdds__L2.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/math__056_HowVarianceAdds__L3.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__billiards_break__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__billiards_break__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__billiards_break__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__driven_string_fixed__L1.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__driven_string_fixed__L2.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__driven_string_fixed__L3.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__three_gear_chain__L1.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__three_gear_chain__L2.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__three_gear_chain__L3.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__u_tube_fluid_oscillation__L1.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__u_tube_fluid_oscillation__L2.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/kimi-k3/physics__u_tube_fluid_oscillation__L3.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__01-atelier-cart__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__01-atelier-cart__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__01-atelier-cart__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__15-salon-calendar__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__15-salon-calendar__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__15-salon-calendar__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__17-workflow__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__17-workflow__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__17-workflow__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__19-editorial__L1.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__19-editorial__L2.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/out/kimi-k3/web__19-editorial__L3.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/raw/algorithms__array-dynamic-resize.mp4": {
+"dur": 4.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/algorithms__array-index-lookup.mp4": {
+"dur": 4.0,
+"h": 160,
+"w": 360
+},
+"assets/v/raw/algorithms__array-insert-shift.mp4": {
+"dur": 4.0,
+"h": 166,
+"w": 360
+},
+"assets/v/raw/algorithms__avl-rotation.mp4": {
+"dur": 4.0,
+"h": 226,
+"w": 360
+},
+"assets/v/raw/algorithms__backtracking-n-queens.mp4": {
+"dur": 4.8,
+"h": 296,
+"w": 360
+},
+"assets/v/raw/algorithms__binary-search.mp4": {
+"dur": 4.0,
+"h": 244,
+"w": 360
+},
+"assets/v/raw/algorithms__bst-insert.mp4": {
+"dur": 4.0,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__bst-search.mp4": {
+"dur": 4.0,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__bubble-sort.mp4": {
+"dur": 4.8,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__circular-linked-list.mp4": {
+"dur": 4.0,
+"h": 208,
+"w": 360
+},
+"assets/v/raw/algorithms__circular-queue-wrap.mp4": {
+"dur": 4.0,
+"h": 230,
+"w": 360
+},
+"assets/v/raw/algorithms__deque-both-ends.mp4": {
+"dur": 4.0,
+"h": 140,
+"w": 360
+},
+"assets/v/raw/algorithms__dijkstra-relax.mp4": {
+"dur": 4.8,
+"h": 256,
+"w": 360
+},
+"assets/v/raw/algorithms__divide-and-conquer.mp4": {
+"dur": 4.0,
+"h": 238,
+"w": 360
+},
+"assets/v/raw/algorithms__doubly-linked-list.mp4": {
+"dur": 4.0,
+"h": 160,
+"w": 360
+},
+"assets/v/raw/algorithms__dp-table-fill.mp4": {
+"dur": 4.0,
+"h": 218,
+"w": 360
+},
+"assets/v/raw/algorithms__graph-bfs.mp4": {
+"dur": 4.0,
+"h": 266,
+"w": 360
+},
+"assets/v/raw/algorithms__graph-dfs.mp4": {
+"dur": 4.8,
+"h": 278,
+"w": 360
+},
+"assets/v/raw/algorithms__greedy-coin-change.mp4": {
+"dur": 4.0,
+"h": 230,
+"w": 360
+},
+"assets/v/raw/algorithms__hash-collision-chaining.mp4": {
+"dur": 4.0,
+"h": 184,
+"w": 360
+},
+"assets/v/raw/algorithms__hash-function-bucket.mp4": {
+"dur": 4.8,
+"h": 200,
+"w": 360
+},
+"assets/v/raw/algorithms__heap-sift-down.mp4": {
+"dur": 3.6,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__heap-sift-up.mp4": {
+"dur": 4.0,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__insertion-sort.mp4": {
+"dur": 4.0,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__linear-search.mp4": {
+"dur": 4.8,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/algorithms__linked-list-delete.mp4": {
+"dur": 4.0,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/algorithms__linked-list-insert.mp4": {
+"dur": 4.0,
+"h": 200,
+"w": 360
+},
+"assets/v/raw/algorithms__linked-list-traverse.mp4": {
+"dur": 4.0,
+"h": 138,
+"w": 360
+},
+"assets/v/raw/algorithms__merge-sort.mp4": {
+"dur": 4.0,
+"h": 218,
+"w": 360
+},
+"assets/v/raw/algorithms__priority-queue.mp4": {
+"dur": 4.0,
+"h": 188,
+"w": 360
+},
+"assets/v/raw/algorithms__queue-enqueue-dequeue.mp4": {
+"dur": 4.0,
+"h": 162,
+"w": 360
+},
+"assets/v/raw/algorithms__quick-sort-partition.mp4": {
+"dur": 4.0,
+"h": 212,
+"w": 360
+},
+"assets/v/raw/algorithms__recursion-call-stack.mp4": {
+"dur": 4.0,
+"h": 290,
+"w": 360
+},
+"assets/v/raw/algorithms__red-black-recolor.mp4": {
+"dur": 4.0,
+"h": 250,
+"w": 360
+},
+"assets/v/raw/algorithms__selection-sort.mp4": {
+"dur": 4.0,
+"h": 206,
+"w": 360
+},
+"assets/v/raw/algorithms__set-dedupe.mp4": {
+"dur": 4.8,
+"h": 172,
+"w": 360
+},
+"assets/v/raw/algorithms__stack-push-pop.mp4": {
+"dur": 4.0,
+"h": 224,
+"w": 360
+},
+"assets/v/raw/algorithms__trie-prefix-walk.mp4": {
+"dur": 4.0,
+"h": 252,
+"w": 360
+},
+"assets/v/raw/charts__01-trend.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__02-rank.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__03-ring.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__04-waterfall.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__05-bullet.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__06-heatmap.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__07-histogram.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__08-scatter.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__09-box.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__10-slope.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__11-funnel.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__12-flow.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__13-treemap.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__14-gantt.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__15-dependency.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__16-kanban.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__17-calendar.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__18-seats.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__19-dial.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__20-tank.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__21-timetable.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__22-route.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__23-candle.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__24-matrix.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__25-pareto.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__26-radar.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__27-invoice.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__28-queue.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__29-facets.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/charts__30-ternary.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-al.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ar.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-as.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-b.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-be.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-br.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-c.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ca.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-cl.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-co.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-cr.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-cu.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-f.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-fe.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ga.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ge.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-h.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-he.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-k.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-kr.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-li.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-mg.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-mn.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-n.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-na.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ne.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ni.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-o.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-p.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-rb.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-s.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-sc.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-se.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-si.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-sr.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-ti.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-v.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/chemistry__atom-zn.mp4": {
+"dur": 2.0,
+"h": 220,
+"w": 360
+},
+"assets/v/raw/electric__01_voltage_divider.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__02_loaded_divider.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__03_current_split.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__04_rc_low_pass.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__05_rc_high_pass.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__06_rl_step.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__07_rlc_step.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__08_half_wave.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__09_shunt_limiter.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__10_noninverting_amp.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__11_inverting_amp.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__12_comparator.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__13_schmitt_trigger.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__14_peak_hold.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__15_capacitor_discharge.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__16_and_gate.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__17_xor_gate.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__18_and_or.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__19_multiplexer.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__20_half_adder.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__21_full_adder.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__22_demultiplexer.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__23_sr_latch.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__24_d_flip_flop.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__25_t_flip_flop.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__26_shift_register.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__27_binary_counter.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__28_priority_encoder.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__29_edge_detector.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/electric__30_parity_tree.mp4": {
+"dur": 1.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__002_CartesianCoordinates.mp4": {
+"dur": 2.5,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__031_ShowMasking.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__033_LinearRegression.mp4": {
+"dur": 2.933,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__034_ErdosSzekeres.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__035_Strings.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__036_PrimeRace.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__037_DistanceBetweenDistributions.mp4": {
+"dur": 2.233,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__038_MovingAverageExample.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__039_SetOfInitialConditions.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__040_PythagoreanProofSketch.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__041_ExponentiallyGrowingState.mp4": {
+"dur": 2.667,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__042_MongesTheorem.mp4": {
+"dur": 2.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__043_BruteForce.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__044_StereographicProjection.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__045_Pegs.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__046_DirectMGFInterpretation.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__047_CircleExample.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__048_ZetaSum.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__049_CylinderSlices.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__050_CirclePuzzle.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__051_WindmillTilings.mp4": {
+"dur": 2.233,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__052_RepeatedConvolution.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__053_IncompleteSquares.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__054_UnitNormals.mp4": {
+"dur": 2.867,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__055_SPlane.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__056_HowVarianceAdds.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__057_ImaginaryInputsToTheTaylorSeries.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__058_IntersectingCircles.mp4": {
+"dur": 2.8,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__059_TriangleAreaFormula.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/math__060_DiceSimulation.mp4": {
+"dur": 3.0,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/physics__accelerating_beaker_water.mp4": {
+"dur": 3.0,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/physics__ball_wrapping_pole.mp4": {
+"dur": 3.0,
+"h": 300,
+"w": 360
+},
+"assets/v/raw/physics__ballistic_pendulum.mp4": {
+"dur": 3.0,
+"h": 258,
+"w": 360
+},
+"assets/v/raw/physics__belt_gear_rack_train.mp4": {
+"dur": 3.0,
+"h": 196,
+"w": 360
+},
+"assets/v/raw/physics__billiards_break.mp4": {
+"dur": 3.0,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/physics__block_chain_collision.mp4": {
+"dur": 3.0,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/physics__bouncing_rod.mp4": {
+"dur": 3.0,
+"h": 226,
+"w": 360
+},
+"assets/v/raw/physics__cart_pendulum.mp4": {
+"dur": 3.0,
+"h": 226,
+"w": 360
+},
+"assets/v/raw/physics__chain_of_springs.mp4": {
+"dur": 3.0,
+"h": 90,
+"w": 360
+},
+"assets/v/raw/physics__colliding_blocks.mp4": {
+"dur": 3.0,
+"h": 144,
+"w": 360
+},
+"assets/v/raw/physics__discs_friction_coupling.mp4": {
+"dur": 3.6,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/physics__double_pendulum.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 360
+},
+"assets/v/raw/physics__double_spring.mp4": {
+"dur": 3.0,
+"h": 120,
+"w": 360
+},
+"assets/v/raw/physics__driven_string_fixed.mp4": {
+"dur": 3.0,
+"h": 120,
+"w": 360
+},
+"assets/v/raw/physics__falling_spring.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 360
+},
+"assets/v/raw/physics__hemisphere_roll_off.mp4": {
+"dur": 3.0,
+"h": 144,
+"w": 360
+},
+"assets/v/raw/physics__pendulum_block_strike.mp4": {
+"dur": 3.0,
+"h": 226,
+"w": 360
+},
+"assets/v/raw/physics__projectile_bounce.mp4": {
+"dur": 3.0,
+"h": 226,
+"w": 360
+},
+"assets/v/raw/physics__ring_pendulum.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 360
+},
+"assets/v/raw/physics__rolling_race_hoop_vs_disk_vs_sphere.mp4": {
+"dur": 3.0,
+"h": 198,
+"w": 360
+},
+"assets/v/raw/physics__simple_pendulum.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 360
+},
+"assets/v/raw/physics__single_spring.mp4": {
+"dur": 3.0,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/physics__stacked_balls_drop.mp4": {
+"dur": 3.0,
+"h": 630,
+"w": 360
+},
+"assets/v/raw/physics__three_body_gravity.mp4": {
+"dur": 3.0,
+"h": 282,
+"w": 360
+},
+"assets/v/raw/physics__three_gear_chain.mp4": {
+"dur": 3.0,
+"h": 234,
+"w": 360
+},
+"assets/v/raw/physics__two_body_gravity.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 360
+},
+"assets/v/raw/physics__two_carts_slack_string.mp4": {
+"dur": 3.6,
+"h": 144,
+"w": 360
+},
+"assets/v/raw/physics__u_tube_fluid_oscillation.mp4": {
+"dur": 3.0,
+"h": 180,
+"w": 360
+},
+"assets/v/raw/physics__wheel_down_stairs.mp4": {
+"dur": 3.0,
+"h": 200,
+"w": 360
+},
+"assets/v/raw/physics__wheel_wall_bounce.mp4": {
+"dur": 3.0,
+"h": 200,
+"w": 360
+},
+"assets/v/raw/web__01-atelier-cart.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__02-auditorium.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__03-invoice-desk.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__04-dispatch-board.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__05-hotel-folio.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__06-offer-lab.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__07-courier-route.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__08-subscription.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__09-audio-queue.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__10-stockroom.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__11-pledge.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__12-support-inbox.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__13-print-sheet.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__14-trade-floor.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__15-salon-calendar.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__16-expense-policy.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__17-workflow.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__18-brew-counter.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__19-editorial.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__20-camera-kit.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__21-charge-station.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__22-meal-box.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__23-freight-quote.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__24-workshop-agenda.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__25-access-console.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__26-home-search.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__27-course-path.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__28-portfolio.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__29-device-preview.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/raw/web__30-transit-wallet.mp4": {
+"dur": 1.6,
+"h": 202,
+"w": 360
+},
+"assets/v/src/algorithms__avl-rotation.mp4": {
+"dur": 4.0,
+"h": 402,
+"w": 640
+},
+"assets/v/src/algorithms__backtracking-n-queens.mp4": {
+"dur": 4.8,
+"h": 526,
+"w": 640
+},
+"assets/v/src/algorithms__dijkstra-relax.mp4": {
+"dur": 4.8,
+"h": 456,
+"w": 640
+},
+"assets/v/src/algorithms__quick-sort-partition.mp4": {
+"dur": 4.0,
+"h": 376,
+"w": 640
+},
+"assets/v/src/charts__01-trend.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/charts__06-heatmap.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/charts__07-histogram.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/charts__14-gantt.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/chemistry__atom-c.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/src/chemistry__atom-ca.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/src/chemistry__atom-f.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/src/chemistry__atom-p.mp4": {
+"dur": 2.0,
+"h": 392,
+"w": 640
+},
+"assets/v/src/electric__04_rc_low_pass.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/electric__10_noninverting_amp.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/electric__21_full_adder.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/electric__26_shift_register.mp4": {
+"dur": 1.8,
+"h": 360,
+"w": 640
+},
+"assets/v/src/math__033_LinearRegression.mp4": {
+"dur": 2.933,
+"h": 360,
+"w": 640
+},
+"assets/v/src/math__040_PythagoreanProofSketch.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/src/math__044_StereographicProjection.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/src/math__056_HowVarianceAdds.mp4": {
+"dur": 3.0,
+"h": 360,
+"w": 640
+},
+"assets/v/src/physics__billiards_break.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/src/physics__driven_string_fixed.mp4": {
+"dur": 3.0,
+"h": 214,
+"w": 640
+},
+"assets/v/src/physics__three_gear_chain.mp4": {
+"dur": 3.0,
+"h": 416,
+"w": 640
+},
+"assets/v/src/physics__u_tube_fluid_oscillation.mp4": {
+"dur": 3.0,
+"h": 320,
+"w": 640
+},
+"assets/v/src/web__01-atelier-cart.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/src/web__15-salon-calendar.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/src/web__17-workflow.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+},
+"assets/v/src/web__19-editorial.mp4": {
+"dur": 1.6,
+"h": 360,
+"w": 640
+}
+}
