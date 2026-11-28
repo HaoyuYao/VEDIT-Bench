@@ -1,14 +1,14 @@
-# VEDIT-Bench
+# 🎬 VEDIT-Bench
 
 **VEDIT-Bench: A Unified Benchmark for Evaluating Coding Agents on Programmatic Video Editing from Undescribed Instructions**
 
-[Project Page](https://haoyuyao.github.io/VEDIT-Bench) |  [Github Code](https://github.com/HaoyuYao/VEDIT-Bench) | [Hugging Face Dataset](https://huggingface.co/datasets/Jack123456aas/VEDIT-Bench)
+[🌐 Project Page](https://haoyuyao.github.io/VEDIT-Bench) | [💻 GitHub Code](https://github.com/HaoyuYao/VEDIT-Bench) | [🤗 Hugging Face Dataset](https://huggingface.co/datasets/Jack123456aas/VEDIT-Bench)
 
 VEDIT-Bench evaluates coding agents on programmatic video editing given only a source video and an underspecified editing instruction. It contains **678 tasks across 226 scenes and 7 domains**, with three difficulty levels: local edits (L1), linked updates (L2), and rule or structural changes (L3).
 
 This repository provides the evaluation code. The benchmark data and paper results are available on Hugging Face.
 
-## 1. Installation
+## 🛠️ 1. Installation
 
 Requires Python 3.12, Node.js, and npm.
 
@@ -27,7 +27,7 @@ python run.py doctor
 
 The default semantic judge is `gpt-6.1-terra` with `high` reasoning effort.
 
-## 2. Prepare Data
+## 📦 2. Prepare Data
 
 Download the benchmark from [Hugging Face](https://huggingface.co/datasets/Jack123456aas/VEDIT-Bench).
 
@@ -52,7 +52,7 @@ benchmark/
         └── edited.mp4
 ```
 
-## 3. Run Evaluation
+## 🚀 3. Run Evaluation
 
 Run all commands from the `evaluation/` directory.
 
@@ -71,7 +71,7 @@ python run.py evaluate --root ../benchmark --output ../trial \
 
 Replace the example model name and task ID with your own.
 
-## Citation
+## 📝 Citation
 
 ```bibtex
 @article{yao2026veditbench,
@@ -81,7 +81,6 @@ Replace the example model name and task ID with your own.
 }
 ```
 
-## License
+## 📄 License
 
 [MIT License](LICENSE)
-
