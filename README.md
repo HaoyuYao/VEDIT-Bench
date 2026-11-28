@@ -81,6 +81,6 @@ Replace the example model name and task ID with your own.
 }
 ```
 
-## 📄 License
+## 📄 Contact
 
-[MIT License](LICENSE)
+yaohaoyu26@stu.pku.edu.cn
