@@ -42,7 +42,7 @@
     <div class="hero-copy">
       <div class="stamp"><span class="st">Arxiv 2027</span><span class="sep">Benchmark · Coding agents · Video editing</span></div>
       <h1 class="display hero-title" id="heroTitle" aria-label="VEDIT-Bench">VEDIT-Bench</h1>
-      <p class="hero-q">Can a coding agent edit a video it has only <em>watched</em>, from an instruction that leaves the <span class="squig" style="--sq: var(--der)">consequences<svg viewBox="0 0 200 12" preserveAspectRatio="none"><path d="M2 8 C 30 2, 50 12, 80 6 S 130 2, 160 7 S 190 9, 198 4"/></svg></span> unsaid?</p>
+      <p class="hero-q">Can a coding agent perform programmatic <em>video editing</em>, from an instruction that leaves the <span class="squig" style="--sq: var(--der)">consequences<svg viewBox="0 0 200 12" preserveAspectRatio="none"><path d="M2 8 C 30 2, 50 12, 80 6 S 130 2, 160 7 S 190 9, 198 4"/></svg></span> unsaid?</p>
       <p class="hero-full">VEDIT-Bench: A Unified Benchmark for Evaluating Coding Agents on Programmatic Video Editing from Undescribed Instructions</p>
       <div class="authors">
         <span class="a">Haoyu Yao<sup>1</sup></span><span class="a">Chenguo Lin<sup>1,†</sup></span><span class="a">Yike Xiang<sup>2</sup></span><span class="a">Ruize Du<sup>1</sup></span><span class="a">Fengyuan Ran<sup>1</sup></span><span class="a">Qingmiao Hu<sup>3</sup></span><span class="a">Xuesong Duan<sup>4</sup></span><span class="a">Yadong Mu<sup>1,✉</sup></span>
@@ -72,7 +72,7 @@
 <section class="sec" id="abstract">
   <div class="wrap">
     <div class="abs-grid">
-      <p class="pull" data-reveal><span class="qm">“</span>Agents can execute the stated change and preserve the rest of the video, but struggle to <em>infer the latent intent</em> of an instruction and carry its consequences into the program.</p>
+      <p class="pull" data-reveal><span class="qm">“</span>Agents apply stated video edits and preserve unedited content, but fail to infer latent intent and propagate its programmatic consequences.</p>
       <div class="abs-body" data-reveal style="--d:.15s">
         <div class="kicker"><span class="num">§ 01</span> Abstract</div>
         <p>Programmatic dynamic visual artifacts — animations, simulations and interactive visualizations — are specified by executable programs, which makes them parametric, controllable and reproducible. In practice, coding agents are often tasked with editing these artifacts given only a <span class="hl">rendered video</span> and an <span class="hl" style="--hl-d:.5s">underspecified instruction</span> that states the primary modification while leaving its structural, quantitative and temporal consequences implicit.</p>
@@ -97,24 +97,24 @@
     <header class="sec-head" data-reveal>
       <div class="kicker"><span class="num">§ 02</span> The task</div>
       <h2 class="display">One sentence, <em>many</em> consequences.</h2>
-      <p class="lede">Given only a rendered video and an instruction with hidden intent, an agent must rebuild the scene as code, apply the edit, and carry its unstated effects through time.</p>
+      <p class="lede">Given only a source video and an instruction with hidden intent, an agent must rebuild the scene as code, apply the edit, and carry its unstated effects through time.</p>
     </header>
     <div class="scrolly" id="scrolly">
       <div class="steps">
         <div class="step" data-step="0">
           <div class="sn">01</div>
-          <h3>You only get the pixels.</h3>
+          <h3>Agents get the pixels</h3>
           <p>The agent receives a rendered clip — here, an HTML/JS atom viewer showing calcium. The program that produced it is withheld, so structure, layout and orbital dynamics must be recovered from frames alone.</p>
         </div>
         <div class="step" data-step="1">
           <div class="sn">02</div>
-          <h3>…and one undescribed sentence.</h3>
-          <p>The instruction names the primary change and nothing else. Turning Ca into Ca²⁺ silently implies two fewer electrons, a new configuration, a different valence and an emptied outer shell.</p>
+          <h3>…and one undescribed editing instruction.</h3>
+          <p>The video-editing instruction names the primary change and nothing else. Turning Ca into Ca2+ silently implies two fewer orbiting electrons, a new configuration, a different valence, and an emptied outer shell throughout the animation.</p>
         </div>
         <div class="step" data-step="2">
           <div class="sn">03</div>
-          <h3>The agent writes a program.</h3>
-          <p>It must synthesize a self-contained program that reconstructs the scene from scratch and executes the edit, without reusing source frames. The excerpt is from Opus 5.5’s actual submission for this task.</p>
+          <h3>The agent infers and writes a program.</h3>
+          <p>Without source code or frame reuse, the agent must synthesize a standalone program that reconstructs and re-renders the edited video from scratch.</p>
         </div>
         <div class="step" data-step="3">
           <div class="sn">04</div>
@@ -162,8 +162,8 @@
   <div class="wrap">
     <header class="sec-head" data-reveal>
       <div class="kicker"><span class="num">§ 03</span> Three levels</div>
-      <h2 class="display">Same scene, <em>rising</em> stakes.</h2>
-      <p class="lede">Every source scene is edited at three levels that hold reconstruction difficulty fixed while widening the scope of causal propagation.</p>
+      <h2 class="display">L1- L3 editing levels.</h2>
+      <p class="lede">Every source video is edited at three levels that hold reconstruction difficulty fixed while widening the scope of causal propagation.</p>
     </header>
     <div class="lvl-cards">
       <article class="lvl-card" data-reveal>
@@ -191,7 +191,7 @@
 
     <div class="triplet" id="triplet">
       <div class="trip-top" data-reveal>
-        <h3>One source, three edits — <em class="hand" style="font-size:.8em;color:var(--ink-2)">drag the divider</em></h3>
+        <h3>One source video, three edits — <em class="hand" style="font-size:.8em;color:var(--ink-2)">drag the divider</em></h3>
         <div class="seg" id="tripDom"></div>
       </div>
       <div class="trip-grid" data-reveal>
@@ -208,20 +208,6 @@
       </div>
     </div>
 
-    <div class="stat-row">
-      <div class="panel" data-reveal>
-        <h4>Scoring points by level</h4>
-        <p class="sub">All 678 tasks. Derived points concentrate at L2 and L3 — that is where hidden consequences live.</p>
-        <div class="legend"><span><i style="background:var(--dir)"></i>Direct</span><span><i style="background:var(--der)"></i>Derived</span><span><i style="background:var(--inv)"></i>Invariant</span></div>
-        <div id="ptsBars"></div>
-      </div>
-      <div class="panel" data-reveal style="--d:.12s">
-        <h4>Criteria per task</h4>
-        <p class="sub">Time-anchored criteria a task must satisfy. Diamonds: mean over all 678 tasks; columns: how the 28 evaluated tasks per level are distributed.</p>
-        <svg class="chart" id="critChart" viewBox="0 0 520 200"></svg>
-      </div>
-    </div>
-  </div>
 </section>
 
 <div class="divider-band" aria-hidden="true"><div class="ticker" id="ticker2"></div></div>
@@ -231,12 +217,12 @@
   <div class="wrap">
     <header class="sec-head" data-reveal>
       <div class="kicker"><span class="num">§ 04</span> The dataset</div>
-      <h2 class="display">226 scenes, <em>seven</em> worlds.</h2>
+      <h2 class="display">Dataset Statistics.</h2>
       <p class="lede">Deterministic source programs across seven domains and three program families, each paired with an L1, L2 and L3 instruction. Hover any tile to play it; click to read its three edits.</p>
     </header>
     <div class="dom-cards" id="domCards"></div>
     <div class="panel" data-reveal style="margin-bottom:40px">
-      <h4>Source scenes per domain</h4>
+      <h4>Source videos per domain</h4>
       <p class="sub">Coloured by program family and renderer.</p>
       <div class="legend"><span><i style="background:#8F84D8"></i>SVG animation</span><span><i style="background:#E2A84C"></i>HTML / JavaScript</span><span><i style="background:#4FA08C"></i>Python</span></div>
       <div id="famBar"></div>
@@ -255,7 +241,7 @@
   <div class="wrap">
     <header class="sec-head" data-reveal>
       <div class="kicker"><span class="num">§ 05</span> How we score</div>
-      <h2 class="display">Scoring what the instruction <em>didn’t</em> say.</h2>
+      <h2 class="display">Evaluation.</h2>
       <p class="lede">Holistic video similarity misses small but decisive changes — a single numeric label can flip correctness while touching a few pixels. So every task carries observable, time-anchored criteria, rated 0–4 by a VLM judge that inspects source, reference and candidate frame by frame.</p>
     </header>
     <div class="m-cards">
@@ -298,41 +284,14 @@
         <p>Share of the source→reference gap closed <em>inside</em> the edit region: 0 = unchanged, 100 = reference.</p>
       </div>
     </div>
-
-    <div class="calc" id="calc">
-      <div data-reveal>
-        <div class="kicker">Try it</div>
-        <h3>The composite, by hand.</h3>
-        <p class="muted ui small" style="max-width:56ch">Edit term E = 0.55·Direct + 0.45·Derived (or Direct alone when a task has no Derived criteria). A bounded quality factor Q ∈ [0.75, 1] folds in the rest, so preserving the video can never compensate for skipping the edit. Returning the source unchanged scores 0.</p>
-        <div class="sliders" id="sliders"></div>
-        <label class="toggle"><input type="checkbox" id="hasDer" checked><span class="tr"></span>Task has Derived criteria</label>
-        <div class="presets" id="presets"></div>
-      </div>
-      <div data-reveal style="--d:.15s">
-        <div class="receipt" id="receipt"></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ============================== FINDINGS ============================== -->
-<section class="sec tint" id="results">
-  <div class="wrap">
-    <header class="sec-head" data-reveal>
-      <div class="kicker"><span class="num">§ 06</span> Findings</div>
-      <h2 class="display">They do what they’re told, <em>not what it implies.</em></h2>
-      <p class="lede">Eight coding agents, each in its native command-line harness at high reasoning effort, on the 84-task mini-subset that keeps every domain and pairs each source with its L1, L2 and L3 edit.</p>
-    </header>
-    <div class="finds" id="finds"></div>
-  </div>
 </section>
 
 <!-- ============================== LEADERBOARD + ANALYSIS ============================== -->
 <section class="sec" id="leaderboard">
   <div class="wrap">
     <header class="sec-head" data-reveal>
-      <div class="kicker"><span class="num">§ 07</span> Leaderboard</div>
-      <h2 class="display">Close at the bottom rung, <em>apart</em> at the top.</h2>
+      <div class="kicker"><span class="num">§ 06</span> Leaderboard</div>
+      <h2 class="display">Results and Findings.</h2>
     </header>
     <div class="lb-ctrl" data-reveal>
       <div class="seg" id="popSeg"><button data-v="AZ" class="on">Auto-zero</button><button data-v="CO">Completed-only</button></div>
@@ -389,8 +348,8 @@
 <section class="sec tint" id="arena">
   <div class="wrap-wide">
     <header class="sec-head wrap" data-reveal>
-      <div class="kicker"><span class="num">§ 08</span> Arena</div>
-      <h2 class="display">Eight agents, <em>one</em> edit, side by side.</h2>
+      <div class="kicker"><span class="num">§ 07</span> Arena</div>
+      <h2 class="display">Gallery Illustration.</h2>
       <p class="lede">All 84 mini-subset tasks with every agent’s delivered video, synchronised by relative time. Starred scenes are the ones shown in the paper. Click any agent to open the judge’s notes.</p>
     </header>
     <div class="arena-ctrl" data-reveal>
@@ -422,7 +381,7 @@
   <div class="wrap">
     <header class="sec-head" data-reveal>
       <div class="kicker"><span class="num">§ 09</span> Failure gallery</div>
-      <h2 class="display">Where agents <em>slip</em>.</h2>
+      <h2 class="display">Failures.</h2>
       <p class="lede">The stated change is usually there. What goes missing is its consequence: the edited scene keeps following the <em>old</em> rule. Each card pairs the reference with a failing agent; notes quote the judge.</p>
     </header>
   </div>
@@ -432,24 +391,13 @@
   </div>
 </section>
 
-<!-- ============================== RELATED ============================== -->
-<section class="sec tint" id="related">
-  <div class="wrap">
-    <header class="sec-head" data-reveal>
-      <div class="kicker"><span class="num">§ 10</span> Positioning</div>
-      <h2 class="display">The first to ask for <em>all five</em>.</h2>
-      <p class="lede">Pixel-space editing benchmarks judge whether an edit looks plausible; code-driven video benchmarks judge generation or reconstruction; code-based editing has been studied for static visuals. VEDIT-Bench needs all of it at once.</p>
-    </header>
-    <div data-reveal style="overflow-x:auto"><table class="cmp" id="cmp"></table></div>
-  </div>
-</section>
 
 <!-- ============================== BIBTEX ============================== -->
 <section class="sec" id="bibtex">
   <div class="wrap">
     <header class="sec-head" data-reveal>
-      <div class="kicker"><span class="num">§ 11</span> Citation</div>
-      <h2 class="display">If it helps, <em>cite</em> it.</h2>
+      <div class="kicker"><span class="num">§ 08</span> Citation</div>
+      <h2 class="display">Citation.</h2>
     </header>
     <div class="bib" data-reveal id="bib"><button class="copy" id="copyBib">Copy</button>@inproceedings{yao2027veditbench,
   title     = {VEDIT-Bench: A Unified Benchmark for Evaluating Coding Agents

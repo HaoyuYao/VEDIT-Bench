@@ -237,7 +237,7 @@
     const wipe = makeWipe(wipeEl, 50);
     const sync = new SyncGroup().watch(wipeEl);
     const list = $('#tripList');
-    let dom = 'physics', lvl = 'L3', first = true;
+    let dom = 'math', lvl = 'L3', first = true;
     function render() {
       const sc = scenes[dom], t1 = TASK[`${dom}/${sc}/L1`];
       base.src = t1.srcv.src; base.poster = t1.srcp;
@@ -444,7 +444,7 @@
      ====================================================================== */
   function arena() {
     const grid = $('#arGrid'), playBtn = $('#arPlay'), scrub = $('#arScrub'), fillEl = $('.fill', scrub), hd = $('.hd', scrub), tm = $('#arTime');
-    let level = 'L3', dom = 'physics', scene = PICKS.L3.physics, sortBy = 'score';
+    let level = 'L3', dom = 'math', scene = PICKS.L3.math, sortBy = 'score';
     const sync = new SyncGroup({ onTick: (p, playing) => {
       fillEl.style.width = p * 100 + '%'; hd.style.left = p * 100 + '%';
       tm.textContent = Math.round(p * 100) + '%'; playBtn.innerHTML = playing ? ICON.pause : ICON.play;
